@@ -13,13 +13,13 @@ public static void main(String[] args) throws Exception {
         double velocidadeMedia = distanciaPercorrida / tempoSegundos;
 
         if (velocidadeMedia < 5) {
-            System.out.println("Movimento Lento.");
+            System.out.println("MOVIMETO LENTO.");
         }//fim if
         else if (velocidadeMedia >= 5 & velocidadeMedia <= 15) {
-            System.out.println("Movimento moderado.");
+            System.out.println("MOVIMETO MODERADO.");
         }//fim elseif
         else{
-            System.out.println("Movimento rápido.");
+            System.out.println("MOVIMENTO RÁPIDO.");
         }//fim else
     }//fim class
 }//fim main

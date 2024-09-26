@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class numerocpf {
+    public static void main(String[] args) {
+        
+    
         Scanner ler = new Scanner (System.in);
 
         System.out.println("Digite os 11 números do CPF: ");

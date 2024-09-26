@@ -7,7 +7,7 @@ public class array {
             int[] num = new int[5];
             int soma = 0;
     
-            System.out.println("Digite 5 números inteiros:");
+            System.out.println("DIGITE 5 NÍMEROS INTEIROS: ");
             for (int i = 0; i < 5; i++) {
                 System.out.print("Número " + (i + 1) + ": ");
                 num[i] = ler.nextInt();
