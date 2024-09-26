@@ -17,5 +17,6 @@ public class potuaçãofucionario {
                 System.out.println("Pontuação Invalida");
              }
         ler.close();
+        // comentario teste
     }
 }
